@@ -3,7 +3,7 @@
 
 ## 📄 1. Sumário Executivo
 Projeto focado em **Liderança Positiva e Gestão de Mudança Tecnológica** executado no Colégio Municipal Tenente General Gaspar de Godói Colaço, em Santana de Parnaíba - SP. O objetivo central foi desenhar, coordenar e implementar um ecossistema de avaliação digital e contínua alinhado à BNCC, erradicando a postura passiva dos estudantes e transformando uma equipe de docentes seniores em produtores de conteúdos EdTech.
-![Projeto]([(https://github.com/iThaysCambi/case_study_edtech_transformacao_digital/blob/main/Apresenta%C3%A7%C3%A3o%20-%20SEFE%2010.19.pdf)])
+![Projeto](https://github.com/iThaysCambi/case_study_edtech_transformacao_digital/blob/main/Apresenta%C3%A7%C3%A3o%20-%20SEFE%2010.19.pdf)
 * **Atores Envolvidos:** +200 usuários ativos entre professores e estudantes das 3 séries do Ensino Médio.
 * **Escopo:** Gestão de mudança de processos pedagógicos tradicionais para plataformas digitais integradas e acessíveis.
 * **Tecnologias & Ferramentas:** Ecossistema Google for Education (Google Forms/Classroom), Wix (Web design instrucional), Anchor/Spotify (Distribuição de Podcasts de áudio).
