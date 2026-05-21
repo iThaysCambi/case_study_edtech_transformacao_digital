@@ -3,7 +3,7 @@
 
 ## 📄 1. Sumário Executivo
 Projeto focado em **Liderança Positiva e Gestão de Mudança Tecnológica** executado no Colégio Municipal Tenente General Gaspar de Godói Colaço, em Santana de Parnaíba - SP. O objetivo central foi desenhar, coordenar e implementar um ecossistema de avaliação digital e contínua alinhado à BNCC, erradicando a postura passiva dos estudantes e transformando uma equipe de docentes seniores em produtores de conteúdos EdTech.
-![Projeto](https://github.com/iThaysCambi/case_study_edtech_transformacao_digital/blob/main/Apresenta%C3%A7%C3%A3o%20-%20SEFE%2010.19.pdf)
+![Projeto](https://github.com/iThaysCambi/case_study_edtech_transformacao_digital/blob/main/Projeto_Sefe.pdf)
 * **Atores Envolvidos:** +200 usuários ativos entre professores e estudantes das 3 séries do Ensino Médio.
 * **Escopo:** Gestão de mudança de processos pedagógicos tradicionais para plataformas digitais integradas e acessíveis.
 * **Tecnologias & Ferramentas:** Ecossistema Google for Education (Google Forms/Classroom), Wix (Web design instrucional), Anchor/Spotify (Distribuição de Podcasts de áudio).
@@ -24,6 +24,8 @@ Utilizando os princípios de **Design Instrucional Baseado em Competências (BNC
 ### A. Gestão de Mudança & Capacitação (Upskilling Docente)
 * Condução de workshops práticos através de HTPC (Horário de Trabalho Pedagógico Coletivo) focado no "Aprender Fazendo".
 * Promoção de mentoria horizontal (*Peer-to-Peer*), onde professores com maior letramento digital apoiavam os colegas de áreas distintas na concepção técnica de portais virtuais.
+![Formação de professores 1](https://github.com/iThaysCambi/case_study_edtech_transformacao_digital/blob/main/Forma%C3%A7%C3%A3o%20de%20professores1.jpeg)
+![Formação de professores 2](https://github.com/iThaysCambi/case_study_edtech_transformacao_digital/blob/main/Forma%C3%A7%C3%A3o%20de%20preofessores2.jpeg)
 
 ### B. Arquitetura Instrucional & Criação de Ecossistemas Virtuais
 * Liderança no desenho e validação de websites de aprendizagem autônomos e personalizados por disciplina (Inglês, Português, Sociologia, Biologia, Física, Química) utilizando Wix e Google Workspace.
@@ -36,11 +38,13 @@ Utilizando os princípios de **Design Instrucional Baseado em Competências (BNC
 ---
 
 ## 📊 4. Resultados Obtidos e Indicadores (KPIs)
-* **Reconhecimento de Mercado:** Certificação Máxima com o **1º Lugar Nacional no Prêmio Ação Destaque** da Editora Opet/SEFE.
+* **Reconhecimento de Mercado:** Certificação Máxima com o **1º Lugar Nacional no Prêmio Ação Destaque** da Editora Opet/SEFE.![Recebendo a premiação](https://github.com/iThaysCambi/case_study_edtech_transformacao_digital/blob/main/Recebendo%20a%20premia%C3%A7%C3%A3o.jpeg) ![Premiação do 1º Lugar](https://github.com/iThaysCambi/case_study_edtech_transformacao_digital/blob/main/Premia%C3%A7%C3%A3o%20do%201%C2%BA%20Lugar.jpeg)
 * **Adoção Digital (Professores):** 100% de adesão do corpo docente na migração das avaliações tradicionais para o ecossistema digital dinâmico.
 * **Engajamento da Comunidade:** Aumento drástico na participação e acompanhamento dos pais/responsáveis através do registro de e-mails corporativos e alertas automáticos de entrega de projetos.
 * **Inclusão Efetiva:** Gravação e entrega de conteúdos por alunos surdos utilizando LIBRAS, mitigando as taxas de abandono escolar e isolamento.
-
+![Apresentação]([https://github.com/iThaysCambi/case_study_edtech_transformacao_digital/blob/main/Apresenta%C3%A7%C3%A3o-SEFE 10.19.pdf])
+![Lista de Presença](https://github.com/iThaysCambi/case_study_edtech_transformacao_digital/blob/main/Lista%20de%20Presen%C3%A7a.jpeg)
+![Recepção do evento](https://github.com/iThaysCambi/case_study_edtech_transformacao_digital/blob/main/Recep%C3%A7%C3%A3o%20do%20Evento.jpeg)
 ---
 
 ## 💡 5. Competências Técnicas e Comportamentais Evidenciadas (Hard & Soft Skills)
