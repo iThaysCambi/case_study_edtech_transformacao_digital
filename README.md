@@ -14,12 +14,12 @@ Projeto focado em **Liderança Positiva e Gestão de Mudança Tecnológica** exe
 Como coordenadora pedagógica líder, identifiquei três fragilidades principais no ecossistema escolar:
 1. **Defasagem Metodológica:** Ensino tradicional centrado no modelo "quadro e giz", gerando passividade e falta de pertencimento nos alunos.
 2. **Resistência Tecnológica Interna:** Uma equipe de professores com vasta experiência na rede pública, porém com baixa letramento digital e receio na utilização de novas ferramentas.
-3. **Barreiras de Inclusão:** A necessidade de integrar de forma personalizada dezenas de estudantes com necessidades específicas (laudados/AEE) distribuídos nas turmas regulares.
+3. **Barreiras de Inclusão:** A necessidade de integrar de forma personalizada dezenas de estudantes com necessidades específicas ou deficiências (laudados/AEE) distribuídos nas turmas regulares.
 
 ---
 
 ## 🛠️ 3. Solução Proposta e Metodologia (Framework Ágil)
-Utilizando os princípios de **Design Instrucional Baseado em Competências (BNCC)** e liderança colaborativa, dividi a implementação em 4 grandes frentes de trabalho:
+Utilizando os princípios de **Design Instrucional Baseado em Competências (BNCC)** e liderança colaborativa, dividi a implementação em 3 grandes frentes de trabalho:
 
 ### A. Gestão de Mudança & Capacitação (Upskilling Docente)
 * Condução de workshops práticos através de HTPC (Horário de Trabalho Pedagógico Coletivo) focado no "Aprender Fazendo".
